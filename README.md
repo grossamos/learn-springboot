@@ -1,7 +1,7 @@
-#Spring Boot Hello World
+# Spring Boot Hello World
 
-##Description
+## Description
 This application will print a hello World web page in your Browser!
 
-##Installation and running the app
+## Installation and running the app
 To run it, simply call on the Dockerfile and build said container :D
